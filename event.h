@@ -7,11 +7,11 @@ class Event
    int day, month, year;
    int hour, minutes;
    string name;
-
+	string name;
    public:
 
    Event(string="brak",int=1,int=1,int=2015,int=12,int=0);
-   ~Event();
+  ~Event();
    void load();
    void show();
 };
