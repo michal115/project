@@ -15,6 +15,8 @@ void Event::load()
    cout<<endl<<"Godzina: ";
    cin>>hour;
    cout<<endl<<"Minut: ";
+	cout<<"Imie:"<<endl;
+cin>>imie;
    cin>>minutes;
 }
 
