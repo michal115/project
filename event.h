@@ -8,6 +8,7 @@ class Event
    int hour, minutes;
    string name;
 	string name;
+string nazwisko;
    public:
 
    Event(string="brak",int=1,int=1,int=2015,int=12,int=0);
