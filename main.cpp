@@ -6,7 +6,7 @@ int main()
 {
     
 
-    cout<<"Moj program na GitHub"<<endl;
+    cout<<"Hello world"<<endl;
   
 
     return 0;
